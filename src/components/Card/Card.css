@@ -1,0 +1,18 @@
+.card{
+    width: 300px;
+    height: 335px;
+    border: 1px solid black;
+}
+.card__header{
+    width: 300px;
+    height: 200px;
+   
+}
+.card__header img{
+    width: 300px;
+    height: 200px;
+}
+.card__content{
+    width: 300px;
+    height: 135px;
+}
